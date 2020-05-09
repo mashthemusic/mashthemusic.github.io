@@ -94,10 +94,10 @@ defaults:
       layout: post
       comments: true
       share: true
-  # Recipe defaults
+  # Music Artists defaults
   - scope:
-      path: "_recipes"
-      type: recipes
+      path: "_musicartists"
+      type: musicartists
     values:
       layout: post
       comments: true
@@ -105,31 +105,31 @@ defaults:
 
 # Site Author
 author:
-  name: Michael Rose
-  picture: /images/michael-rose-photo.jpg
+  name: Mashtheweb
+  picture: /images/mashtheweb.jpg
   email:
-  twitter: mmistakes
+  twitter: mashtheweb
   links:
     - title: Twitter
-      url: https://twitter.com/mmistakes
+      url: https://twitter.com/mashtheweb
       icon: fab fa-twitter-square
     - title: Instagram
-      url: https://instagram.com/mmistakes
+      url: https://instagram.com/mashtheweb
       icon: fab fa-instagram
     - title: GitHub
-      url: https://github.com/mmistakes
+      url: https://github.com/mashtheweb
       icon: fab fa-github-square
 
 # Footer Links
 footer_links:
   - title: Twitter
-    url: https://twitter.com/mmistakes
+    url: https://twitter.com/mashtheweb
     icon: fab fa-twitter-square
   - title: Instagram
-    url: https://instagram.com/mmistakes
+    url: https://instagram.com/mashtheweb
     icon: fab fa-instagram
   - title: GitHub
-    url: https://github.com/mmistakes
+    url: https://github.com/mashtheweb
     icon: fab fa-github-square
   - title: Feed
     url: atom.xml
