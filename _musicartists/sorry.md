@@ -1,8 +1,8 @@
 ---
 title: "Sorry"
 image: 
-  path: /images/sorry.jpg
-  thumbnail: /images/sorry-400x200.jpg
+  path: /images/Sorry.jpg
+  thumbnail: /images/Sorry-400x200.jpg
   caption: "Music band of Sorry"
 ---
 
