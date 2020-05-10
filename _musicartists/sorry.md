@@ -10,10 +10,20 @@ Sorry are a bunch of snotty brats from north London who nick ideas from better b
 
 ## Musical Influences
 
+John Coltrane
+Charles Mingus
+Joni Mitchell
+
 ## Articles
+
+https://www.theguardian.com/music/2020/mar/17/sorry-the-band-making-ennui-sexy-925
+https://www.nme.com/blogs/nme-radar/sorry-interview-925-2627881
+https://www.readdork.com/features/sorry-interview-apr20
 
 ## Similar Artists
 
+Porridge Radio
+
 ## Hear
 
-Must hear......
+Must hear their latest album 925
