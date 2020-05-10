@@ -1,5 +1,5 @@
 ---
-title: "Post: Image"
+title: "Bombay Bicycle Club - Everything Else Has Gone Wrong"
 image: /images/Bombay-Bicycle-Club-2.jpg
 categories:
   - Post Formats
