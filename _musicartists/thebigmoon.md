@@ -2,7 +2,7 @@
 title: "The Big Moon"
 image: 
   path: /images/The-Big-Moon.jpg
-  thumbnail: /images/The Big Moon-400x200.jpg
+  thumbnail: /images/The-Big Moon-400x200.jpg
   caption: "Music band of The Big Moon"
 ---
 
