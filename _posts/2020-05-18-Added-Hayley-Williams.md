@@ -11,7 +11,7 @@ tags:
 last_modified_at: 2020-05-18T23:15:50-05:00
 ---
 
-# Hayley Willaims
+# Hayley Williams
 
 Just added a new artist with a new release from Hayley Williams with her new album Petals for Armor.
 
