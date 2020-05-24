@@ -1,9 +1,9 @@
 ---
-title: "Enter Shikari"
+title: "HMLTD"
 image: 
-  path: /images/Enter-Shikari.jpg
-  thumbnail: /images/Enter-Shikari-400x200.jpg
-  caption: "Music band of Enter Shikari"
+  path: /images/HMLTD.jpg
+  thumbnail: /images/HMLTDi-400x200.jpg
+  caption: "Music band of HMLTD"
 ---
 
 HMLTD are a glam punk band from London (they were called Happy Meal Ltd but adopted the acronym for Ronald-appeasing legal reasons) previously courted an air of mystery, revealing little about how they met – an approach that made them the most hyped band in the country, but also one that, frankly, got up peoples’ noses.
