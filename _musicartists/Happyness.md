@@ -2,7 +2,7 @@
 title: "Happyness"
 image: 
   path: /images/Happyness.jpg
-  thumbnail: /images/Happyness400x200.jpg
+  thumbnail: /images/Happyness-400x200.jpg
   caption: "Music band of Happyness"
 ---
 
