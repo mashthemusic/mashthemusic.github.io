@@ -8,6 +8,7 @@ categories:
 tags:
   - shopping
   - happyness
+  
 last_modified_at: 2020-05-16T02:20:30-00:00
 ---
 
