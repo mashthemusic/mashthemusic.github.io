@@ -11,6 +11,7 @@ last_modified_at: 2020-05-17T16:35:50-05:00
 ---
 
 # HMLTD And Honey Harper
+
 As mentioned earlier, I had to repost this post again on my second attempt. I have listened to a lot of HMTLTD West of Eden and Honey Harper Starmaker with their latest albums of this year.
 
 Although the two music artists are very different in terms of musical styles, they share some commonality between them despite them being beginning with H on their name, and releasing an album in 2020 this year.
