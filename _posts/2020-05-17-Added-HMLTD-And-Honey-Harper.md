@@ -1,10 +1,11 @@
 ---
 title: "HMLTD And Honey Harper"
 categories:
-  - Record Store Day
+  - hmltd
+  - honey harper
 tags:
-  - Record Store Day
-  - record
+  - hmltd
+  - honey harper
   
 last_modified_at: 2020-05-17T16:35:50-05:00
 ---
