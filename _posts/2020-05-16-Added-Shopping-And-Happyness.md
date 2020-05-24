@@ -1,6 +1,5 @@
 ---
 title: "Added Shopping And Happyness"
-image: /images/Shopping.jpg
 categories:
   - music
   = artists
