@@ -7,8 +7,8 @@ tags:
   - tim burgess listening party
   - tim burgess
   - the horrors
-  - let's eat grandma
-  - dexy's midnight runners
+  - lets eat grandma
+  - dexys midnight runners
   - the streets
   - music
   
